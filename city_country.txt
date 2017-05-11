@@ -1,0 +1,15 @@
+Delhi,India
+Sydney,Australia
+Tokyo,Japan
+New York,USA
+Sao Paulo,Brazil
+Manila,Philippines
+Cairo,Egypt
+Johannesburg,South Africa
+Frankfurt,Germany
+Jakarta,Indonesia
+Melbourn,Australia
+Berlin,Germany
+Budapest,Hungary
+St Petersburg,Russia
+BANGKOK,Thailand
